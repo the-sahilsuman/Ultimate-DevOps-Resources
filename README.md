@@ -32,16 +32,20 @@ Before you contribute, please review our [CONTRIBUTING](https://github.com/Dhanu
 
 ## DevOps Tools
 
-- [Kubernetes](https://kubernetes.io/)
+- [Linux]
+- [Git/GitHub](https://git-scm.com/)
 - [Docker](https://www.docker.com/)
-- [Git](https://git-scm.com/)
 - [Jenkins](https://www.jenkins.io/)
+- [Kubernetes](https://kubernetes.io/)
+- [Ansible](https://docs.ansible.com/)
+- [Teraform](https://developer.hashicorp.com/terraform)
 
 ## Free YouTube Resources
 
 Enhance your DevOps knowledge with these YouTube channels:
 
 - [TechWorld with Nana](https://www.youtube.com/@TechWorldwithNana)
+- [TrainWithShubham](https://www.youtube.com/@TrainWithShubham)
 - [Kunal Kushwaha](https://www.youtube.com/@KunalKushwaha)
 - [Kubesimplify](https://www.youtube.com/@kubesimplify)
 - [FreeCodeCamp](https://www.youtube.com/@freecodecamp)
@@ -61,6 +65,7 @@ Enhance your DevOps knowledge with these YouTube channels:
 
 - Enroll in courses to master DevOps:
   - [DevOps Bootcamp by Coursera](https://www.coursera.org/courses?query=devops)
+  - [Become an OCI DevOps Professional - Oracle University](https://mylearn.oracle.com/ou/learning-path/become-an-oci-devops-professional-2025/147556)
   - [DevOps Fundamentals by Edureka](https://www.edureka.co/blog/devops-tutorial)
   - [DevOps with AWS by Amazon Web Services](https://www.coursera.org/specializations/aws-devops)
   - [DevOps with Azure by Microsoft Azure](https://azure.microsoft.com/en-in/products/devops) 
@@ -93,6 +98,7 @@ Stay informed with these DevOps blogs:
 - [Awesome SRE](https://github.com/dastergon/awesome-sre)
 - [Awesome Devsecops](https://github.com/devsecops/awesome-devsecops)
 - [Devops Bash Tools](https://github.com/HariSekhon/DevOps-Bash-tools)
+- [Shubham Londhe](https://github.com/LondheShubham153)
 
 ## RoadMap To Learn Devops
 
@@ -100,7 +106,7 @@ If you're looking to embark on a DevOps journey, follow this comprehensive roadm
 - [DevOps RoadMap](https://hashnode.com/n/90daysofdevops)
 
 ### Basic
-- Start with the fundamentals of programming, including Python and Bash.
+- Start with the fundamentals of programming, including Python, basics of Linux commands and scripting language- Bash.
 - Understand the basics of operating systems and networking.
 - Learn version control systems, such as Git.
 - Familiarize yourself with automation tools like Ansible and Terraform.
