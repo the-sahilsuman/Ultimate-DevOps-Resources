@@ -32,7 +32,7 @@ Before you contribute, please review our [CONTRIBUTING](https://github.com/Dhanu
 
 ## DevOps Tools
 
-- [Linux]
+- [Linux](https://www.linux.org)
 - [Git/GitHub](https://git-scm.com/)
 - [Jenkins](https://www.jenkins.io/)
 - [Docker](https://www.docker.com/)
